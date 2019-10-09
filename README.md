@@ -1,5 +1,5 @@
 # vuecli3-music
-
+因为获取不了qq音乐声音的api 目前只插入一首歌选择所有的歌曲只播放这一首
 ## Project setup
 ```
 npm install
