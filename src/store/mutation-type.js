@@ -1,0 +1,8 @@
+export const Set_singer='set_singer'
+export const Set_playing='set_playing'
+export const Set_fullScreen='set_fullScreen'
+export const Set_playList='set_playList'
+export const Set_playQueue='set_playQueue'
+export const Set_curIndex='set_curIndex'
+export const Set_playMode='set_playMode'
+export const Set_history='Set_history'
